@@ -32,9 +32,12 @@
 
 <div align="center">
 
-<a href="https://github.com/sahaptanrikulu?tab=repositories"><img src="assets/card-avci.svg" width="32%" alt="Müşteri Avcısı" /></a>
-<a href="https://github.com/sahaptanrikulu?tab=repositories"><img src="assets/card-3d.svg" width="32%" alt="Kapı 3D Modelleme" /></a>
-<a href="https://github.com/sahaptanrikulu?tab=repositories"><img src="assets/card-beyin.svg" width="32%" alt="İkinci Beyin" /></a>
+<a href="https://github.com/sahaptanrikulu/cumle-muhendisi"><img src="assets/card-cumle.svg" width="49%" alt="Cümle Mühendisi — açık kaynak" /></a>
+<img src="assets/card-avci.svg" width="49%" alt="Müşteri Avcısı — kapalı kaynak" />
+<img src="assets/card-3d.svg" width="49%" alt="Kapı 3D Modelleme — kapalı kaynak" />
+<img src="assets/card-beyin.svg" width="49%" alt="İkinci Beyin — kapalı kaynak" />
+
+<sub>Cümle Mühendisi herkese açıktır. Diğer projeler kapalı kaynaktır; yalnızca tanıtımları paylaşılır.</sub>
 
 </div>
 
