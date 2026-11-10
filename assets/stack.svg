@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 125" width="1000" height="125"><g transform="translate(0,0)"><rect width="185" height="54" rx="27" fill="#161b22" stroke="#3776ab" stroke-opacity="0.7"/>
+<circle cx="30" cy="27" r="8" fill="#3776ab"><animate attributeName="r" values="8;10;8" dur="2.5s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="52" y="33" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="17" font-weight="600" fill="#e6edf3">Python</text></g><g transform="translate(200,0)"><rect width="185" height="54" rx="27" fill="#161b22" stroke="#f7df1e" stroke-opacity="0.7"/>
+<circle cx="30" cy="27" r="8" fill="#f7df1e"><animate attributeName="r" values="8;10;8" dur="2.5s" begin="0.3s" repeatCount="indefinite"/></circle>
+<text x="52" y="33" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="17" font-weight="600" fill="#e6edf3">JavaScript</text></g><g transform="translate(400,0)"><rect width="185" height="54" rx="27" fill="#161b22" stroke="#e34f26" stroke-opacity="0.7"/>
+<circle cx="30" cy="27" r="8" fill="#e34f26"><animate attributeName="r" values="8;10;8" dur="2.5s" begin="0.6s" repeatCount="indefinite"/></circle>
+<text x="52" y="33" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="17" font-weight="600" fill="#e6edf3">HTML/CSS</text></g><g transform="translate(600,0)"><rect width="185" height="54" rx="27" fill="#161b22" stroke="#f05032" stroke-opacity="0.7"/>
+<circle cx="30" cy="27" r="8" fill="#f05032"><animate attributeName="r" values="8;10;8" dur="2.5s" begin="0.8999999999999999s" repeatCount="indefinite"/></circle>
+<text x="52" y="33" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="17" font-weight="600" fill="#e6edf3">Git</text></g><g transform="translate(800,0)"><rect width="185" height="54" rx="27" fill="#161b22" stroke="#8b949e" stroke-opacity="0.7"/>
+<circle cx="30" cy="27" r="8" fill="#8b949e"><animate attributeName="r" values="8;10;8" dur="2.5s" begin="1.2s" repeatCount="indefinite"/></circle>
+<text x="52" y="33" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="17" font-weight="600" fill="#e6edf3">GitHub</text></g><g transform="translate(0,70)"><rect width="185" height="54" rx="27" fill="#161b22" stroke="#d97757" stroke-opacity="0.7"/>
+<circle cx="30" cy="27" r="8" fill="#d97757"><animate attributeName="r" values="8;10;8" dur="2.5s" begin="1.5s" repeatCount="indefinite"/></circle>
+<text x="52" y="33" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="17" font-weight="600" fill="#e6edf3">Claude</text></g><g transform="translate(200,70)"><rect width="185" height="54" rx="27" fill="#161b22" stroke="#217346" stroke-opacity="0.7"/>
+<circle cx="30" cy="27" r="8" fill="#217346"><animate attributeName="r" values="8;10;8" dur="2.5s" begin="1.7999999999999998s" repeatCount="indefinite"/></circle>
+<text x="52" y="33" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="17" font-weight="600" fill="#e6edf3">Excel</text></g><g transform="translate(400,70)"><rect width="185" height="54" rx="27" fill="#161b22" stroke="#4479a1" stroke-opacity="0.7"/>
+<circle cx="30" cy="27" r="8" fill="#4479a1"><animate attributeName="r" values="8;10;8" dur="2.5s" begin="2.1s" repeatCount="indefinite"/></circle>
+<text x="52" y="33" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="17" font-weight="600" fill="#e6edf3">SQL</text></g><g transform="translate(600,70)"><rect width="185" height="54" rx="27" fill="#161b22" stroke="#0078d4" stroke-opacity="0.7"/>
+<circle cx="30" cy="27" r="8" fill="#0078d4"><animate attributeName="r" values="8;10;8" dur="2.5s" begin="2.4s" repeatCount="indefinite"/></circle>
+<text x="52" y="33" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="17" font-weight="600" fill="#e6edf3">Windows</text></g><g transform="translate(800,70)"><rect width="185" height="54" rx="27" fill="#161b22" stroke="#3fb950" stroke-opacity="0.7"/>
+<circle cx="30" cy="27" r="8" fill="#3fb950"><animate attributeName="r" values="8;10;8" dur="2.5s" begin="2.6999999999999997s" repeatCount="indefinite"/></circle>
+<text x="52" y="33" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="17" font-weight="600" fill="#e6edf3">Node.js</text></g></svg>

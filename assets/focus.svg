@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 205" width="1000" height="205"><g transform="translate(0,0)"><rect width="490" height="95" rx="12" fill="#161b22" stroke="#f78166" stroke-opacity="0.6"/>
+<rect width="6" height="95" rx="3" fill="#f78166"/><text x="28" y="40" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="22" font-weight="700" fill="#e6edf3">🎯 Müşteri Avcısı</text>
+<text x="28" y="70" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="15" fill="#8b949e">Küresel alıcıları bulan ve değerlendiren araç</text>
+<circle cx="460" cy="26" r="5" fill="#f78166"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="0.0s" repeatCount="indefinite"/></circle></g><g transform="translate(510,0)"><rect width="490" height="95" rx="12" fill="#161b22" stroke="#ffb454" stroke-opacity="0.6"/>
+<rect width="6" height="95" rx="3" fill="#ffb454"/><text x="28" y="40" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="22" font-weight="700" fill="#e6edf3">🧊 Kapı 3D Modelleme</text>
+<text x="28" y="70" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="15" fill="#8b949e">Çelik kapı tasarımlarını 3 boyutta modelleme</text>
+<circle cx="460" cy="26" r="5" fill="#ffb454"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="0.4s" repeatCount="indefinite"/></circle></g><g transform="translate(0,110)"><rect width="490" height="95" rx="12" fill="#161b22" stroke="#58a6ff" stroke-opacity="0.6"/>
+<rect width="6" height="95" rx="3" fill="#58a6ff"/><text x="28" y="40" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="22" font-weight="700" fill="#e6edf3">🧠 İkinci Beyin (Hermes)</text>
+<text x="28" y="70" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="15" fill="#8b949e">Yapay zekâ ajanları için ortak hafıza sistemi</text>
+<circle cx="460" cy="26" r="5" fill="#58a6ff"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="0.8s" repeatCount="indefinite"/></circle></g><g transform="translate(510,110)"><rect width="490" height="95" rx="12" fill="#161b22" stroke="#3fb950" stroke-opacity="0.6"/>
+<rect width="6" height="95" rx="3" fill="#3fb950"/><text x="28" y="40" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="22" font-weight="700" fill="#e6edf3">📈 Kullanım Takip</text>
+<text x="28" y="70" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="15" fill="#8b949e">Yapay zekâ kullanım ve maliyet takibi</text>
+<circle cx="460" cy="26" r="5" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="1.2000000000000002s" repeatCount="indefinite"/></circle></g></svg>
